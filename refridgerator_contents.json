@@ -1,0 +1,85 @@
+{"refridgerator": {
+    "brand": "Samsung",
+    "year": 2021,
+    "filter life": "1 year",
+    "repair needed": false,
+    "temperature": {
+        "fridge": 3,
+        "freezer": 7,
+        "level": "level"
+    }, 
+    "fridge contents": [
+        { 
+            "name": "Milk",
+            "quantity": 1, 
+            "unit": "carton"
+        }, 
+        {
+            "name": "Eggs",
+            "quantity": 5, 
+            "unit": "eggs"           
+        },
+        {
+            "name": "Broccoli",
+            "quantity": 0.5, 
+            "unit": "head"           
+        },
+        {
+            "name": "Beef slices",
+            "quantity": 0.5, 
+            "unit": "packs"           
+        },
+        {
+            "name": "Beef",
+            "quantity": 1, 
+            "unit": "carton"           
+        },
+        {
+            "name": "Milk",
+            "quantity": 1, 
+            "unit": "carton"           
+        },
+        {
+            "name": "Milk",
+            "quantity": 1, 
+            "unit": "carton"           
+        }
+    ], 
+    "freezer contents": [
+        { 
+            "name": "Milk",
+            "quantity": 1, 
+            "unit": "carton"
+        }, 
+        {
+            "name": "Eggs",
+            "quantity": 5, 
+            "unit": "eggs"           
+        },
+        {
+            "name": "Broccoli",
+            "quantity": 0.5, 
+            "unit": "head"           
+        },
+        {
+            "name": "Beef slices",
+            "quantity": 0.5, 
+            "unit": "packs"           
+        },
+        {
+            "name": "Beef",
+            "quantity": 1, 
+            "unit": "carton"           
+        },
+        {
+            "name": "Milk",
+            "quantity": 1, 
+            "unit": "carton"           
+        },
+        {
+            "name": "Milk",
+            "quantity": 1, 
+            "unit": "carton"           
+        }
+    ]
+}}
