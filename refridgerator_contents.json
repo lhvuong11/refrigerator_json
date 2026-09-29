@@ -1,5 +1,4 @@
-{"refrigerator": {
-    "brand": "Samsung",
+{   "brand": "Samsung",
     "year": 2021,
     "filter life": "1 year",
     "repair needed": false,
@@ -8,7 +7,7 @@
         "freezer": 7,
         "level": "level"
     }, 
-    "contents": [
+    "fridge contents": [
         { 
             "name": "Milk",
             "quantity": 1, 
@@ -43,7 +42,9 @@
             "name": "Yogurt",
             "quantity": 1, 
             "unit": "container"           
-        },
+        }
+    ], 
+    "freezer contents": [
         { 
             "name": "Haagen-Dazs bars",
             "quantity": 3, 
@@ -80,4 +81,4 @@
             "unit": "bag"           
         }
     ]
-}}
+}
