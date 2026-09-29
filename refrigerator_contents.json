@@ -1,86 +1,72 @@
 {   "fridge info": {
-        "brand": "Samsung",
-        "year": 2021,
-        "filter life": "1 year",
-        "repair needed": false,
-        "temperature": {
-            "fridge": 3,
-           "freezer": 7,
-            "level": "level"
+        "Brand": "Samsung",
+        "Year": 2021,
+        "Filter life": "1 year",
+        "Repair needed": false,
+        "Temperature": {
+            "Fridge": 3,
+           "Freezer": 7,
+            "Level": "level"
         }
     },
-    "fridge contents": [
-        { 
-            "name": "Milk",
+    "fridge contents":{
+        "Milk": {
             "quantity": 1, 
-            "unit": "carton"
-        }, 
-        {
-            "name": "Eggs",
+            "unit": "carton" 
+        },
+        "Eggs": {
             "quantity": 10, 
             "unit": "eggs"           
         },
-        {
-            "name": "Broccoli",
+        "Broccoli": {
             "quantity": 0.5, 
             "unit": "head"           
         },
-        {
-            "name": "Mushrooms",
+        "Mushrooms": {
             "quantity": 0.5, 
             "unit": "container"           
         },
-        {
-            "name": "Beef slices",
+        "Beef slices": {
             "quantity": 2, 
             "unit": "packs"           
         },
-        {
-            "name": "Butter",
+        "Butter": {
             "quantity": 3, 
             "unit": "sticks"           
         },
-        {
-            "name": "Yogurt",
+        "Yogurt": {
             "quantity": 1, 
             "unit": "container"           
         }
-    ], 
-    "freezer contents": [
-        { 
-            "name": "Haagen-Dazs bars",
+    }, 
+    "freezer contents":{
+        "Haagen-Dazs bars": { 
             "quantity": 3, 
             "unit": "bars"
-        }, 
-        {
-            "name": "Ben & Jerry's",
+        },
+        "Ben & Jerry's": {
             "quantity": 1, 
             "unit": "pints"           
         },
-        {
-            "name": "Beef steak",
+        "Beef steak": {
             "quantity": 0, 
             "unit": "steak"           
         },
-        {
-            "name": "Frozen vegetables",
+        "Frozen vegetables": {
             "quantity": 0.25, 
             "unit": "packs"           
         },
-        {
-            "name": "Frozen pizza",
+        "Frozen pizza": {
             "quantity": 1, 
             "unit": "pie"           
         },
-        {
-            "name": "Frozen salmon",
+        "Frozen salmon": {
             "quantity": 1, 
-            "unit": "fillet"           
+            "unit":"fillet"           
         },
-        {
-            "name": "Frozen berries",
-            "quantity": 0.15, 
-            "unit": "bag"           
-        }
-    ]
+        "Frozen berries":{ 
+           "quantity":0.15, 
+           "unit":"bag"           
+       } 
+    }
 }
