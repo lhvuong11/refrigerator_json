@@ -67,19 +67,19 @@
             "unit": "packs"           
         },
         {
-            "name": "Beef",
+            "name": "Frozen pizza",
             "quantity": 1, 
-            "unit": "carton"           
+            "unit": "pie"           
         },
         {
-            "name": "Milk",
+            "name": "Frozen salmon",
             "quantity": 1, 
-            "unit": "carton"           
+            "unit": "fillet"           
         },
         {
-            "name": "Milk",
-            "quantity": 1, 
-            "unit": "carton"           
+            "name": "Frozen berries",
+            "quantity": 0.15, 
+            "unit": "bag"           
         }
     ]
 }}
