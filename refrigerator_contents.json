@@ -1,0 +1,84 @@
+{   "brand": "Samsung",
+    "year": 2021,
+    "filter life": "1 year",
+    "repair needed": false,
+    "temperature": {
+        "fridge": 3,
+        "freezer": 7,
+        "level": "level"
+    }, 
+    "fridge contents": [
+        { 
+            "name": "Milk",
+            "quantity": 1, 
+            "unit": "carton"
+        }, 
+        {
+            "name": "Eggs",
+            "quantity": 10, 
+            "unit": "eggs"           
+        },
+        {
+            "name": "Broccoli",
+            "quantity": 0.5, 
+            "unit": "head"           
+        },
+        {
+            "name": "Mushrooms",
+            "quantity": 0.5, 
+            "unit": "container"           
+        },
+        {
+            "name": "Beef slices",
+            "quantity": 2, 
+            "unit": "packs"           
+        },
+        {
+            "name": "Butter",
+            "quantity": 3, 
+            "unit": "sticks"           
+        },
+        {
+            "name": "Yogurt",
+            "quantity": 1, 
+            "unit": "container"           
+        }
+    ], 
+    "freezer contents": [
+        { 
+            "name": "Haagen-Dazs bars",
+            "quantity": 3, 
+            "unit": "bars"
+        }, 
+        {
+            "name": "Ben & Jerry's",
+            "quantity": 1, 
+            "unit": "pints"           
+        },
+        {
+            "name": "Beef stake",
+            "quantity": 0, 
+            "unit": "steak"           
+        },
+        {
+            "name": "Frozen vegetables",
+            "quantity": 0.25, 
+            "unit": "packs"           
+        },
+        {
+            "name": "Frozen pizza",
+            "quantity": 1, 
+            "unit": "pie"           
+        },
+        {
+            "name": "Frozen salmon",
+            "quantity": 1, 
+            "unit": "fillet"           
+        },
+        {
+            "name": "Frozen berries",
+            "quantity": 0.15, 
+            "unit": "bag"           
+        }
+    ]
+}
