@@ -8,7 +8,7 @@
         "freezer": 7,
         "level": "level"
     }, 
-    "fridge contents": [
+    "contents": [
         { 
             "name": "Milk",
             "quantity": 1, 
@@ -43,9 +43,7 @@
             "name": "Yogurt",
             "quantity": 1, 
             "unit": "container"           
-        }
-    ], 
-    "freezer contents": [
+        },
         { 
             "name": "Haagen-Dazs bars",
             "quantity": 3, 
