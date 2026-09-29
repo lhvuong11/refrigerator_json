@@ -16,7 +16,7 @@
         }, 
         {
             "name": "Eggs",
-            "quantity": 5, 
+            "quantity": 10, 
             "unit": "eggs"           
         },
         {
@@ -25,45 +25,45 @@
             "unit": "head"           
         },
         {
-            "name": "Beef slices",
+            "name": "Mushrooms",
             "quantity": 0.5, 
+            "unit": "container"           
+        },
+        {
+            "name": "Beef slices",
+            "quantity": 2, 
             "unit": "packs"           
         },
         {
-            "name": "Beef",
-            "quantity": 1, 
-            "unit": "carton"           
+            "name": "Butter",
+            "quantity": 3, 
+            "unit": "sticks"           
         },
         {
-            "name": "Milk",
+            "name": "Yogurt",
             "quantity": 1, 
-            "unit": "carton"           
-        },
-        {
-            "name": "Milk",
-            "quantity": 1, 
-            "unit": "carton"           
+            "unit": "container"           
         }
     ], 
     "freezer contents": [
         { 
-            "name": "Milk",
-            "quantity": 1, 
-            "unit": "carton"
+            "name": "Haagen-Dazs bars",
+            "quantity": 3, 
+            "unit": "bars"
         }, 
         {
-            "name": "Eggs",
-            "quantity": 5, 
-            "unit": "eggs"           
+            "name": "Ben & Jerry's",
+            "quantity": 1, 
+            "unit": "pints"           
         },
         {
-            "name": "Broccoli",
-            "quantity": 0.5, 
-            "unit": "head"           
+            "name": "Beef stake",
+            "quantity": 0, 
+            "unit": "steak"           
         },
         {
-            "name": "Beef slices",
-            "quantity": 0.5, 
+            "name": "Frozen vegetables",
+            "quantity": 0.25, 
             "unit": "packs"           
         },
         {
