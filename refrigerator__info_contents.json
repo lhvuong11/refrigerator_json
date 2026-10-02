@@ -1,0 +1,72 @@
+{   "Fridge info": {
+        "Brand": "Samsung",
+        "Year": 2021,
+        "Filter life": "1 year",
+        "Repair needed": false,
+        "Temperature": {
+            "Fridge": 3,
+           "Freezer": 7,
+            "Level": "level"
+        }
+    },
+    "Fridge contents":{
+        "Milk": {
+            "quantity": 1, 
+            "unit": "carton" 
+        },
+        "Eggs": {
+            "quantity": 10, 
+            "unit": "eggs"           
+        },
+        "Broccoli": {
+            "quantity": 0.5, 
+            "unit": "head"           
+        },
+        "Mushrooms": {
+            "quantity": 0.5, 
+            "unit": "container"           
+        },
+        "Beef slices": {
+            "quantity": 2, 
+            "unit": "packs"           
+        },
+        "Butter": {
+            "quantity": 3, 
+            "unit": "sticks"           
+        },
+        "Yogurt": {
+            "quantity": 1, 
+            "unit": "container"           
+        }
+    }, 
+    "Freezer contents":{
+        "Haagen-Dazs bars": { 
+            "quantity": 3, 
+            "unit": "bars"
+        },
+        "Ben & Jerry's": {
+            "quantity": 1, 
+            "unit": "pints"           
+        },
+        "Beef steak": {
+            "quantity": 0, 
+            "unit": "steak"           
+        },
+        "Frozen vegetables": {
+            "quantity": 0.25, 
+            "unit": "packs"           
+        },
+        "Frozen pizza": {
+            "quantity": 1, 
+            "unit": "pie"           
+        },
+        "Frozen salmon": {
+            "quantity": 2, 
+            "unit":"fillets"           
+        },
+        "Frozen berries": { 
+           "quantity":0.15, 
+           "unit":"bag"           
+       } 
+    }
+}
