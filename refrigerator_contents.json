@@ -1,15 +1,4 @@
-{   "Fridge info": {
-        "Brand": "Samsung",
-        "Year": 2021,
-        "Filter life": "1 year",
-        "Repair needed": false,
-        "Temperature": {
-            "Fridge": 3,
-           "Freezer": 7,
-            "Level": "level"
-        }
-    },
-    "Fridge contents":{
+{   "Fridge contents":{
         "Milk": {
             "quantity": 1, 
             "unit": "carton" 
