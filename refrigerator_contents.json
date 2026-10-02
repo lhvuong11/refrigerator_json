@@ -29,13 +29,13 @@
         }
     }, 
     "Freezer contents":{
-        "Haagen-Dazs bars": { 
-            "quantity": 3, 
-            "unit": "bars"
-        },
-        "Ben & Jerry's": {
+        "Ice cream": { 
             "quantity": 1, 
-            "unit": "pints"           
+            "unit": "pint"
+        },
+        "Chicken breast": {
+            "quantity": 1, 
+            "unit": "pack"           
         },
         "Beef steak": {
             "quantity": 0, 
