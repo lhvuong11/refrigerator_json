@@ -1,5 +1,7 @@
 ## doesn't work for json with fridge info yet :(
 
+### INFM 201 Final Project 
+
 ### Documentation
 The purpose of this script is to allow the end-user to issue a query and extract a subset of data by reading in a .json file into a python dictionary. 
 Based on the end-user's choices, it will output a .json file consisting of select keys.
